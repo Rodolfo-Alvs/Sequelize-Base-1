@@ -1,0 +1,1 @@
+# Sequelize-Base-1
